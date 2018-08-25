@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaferApp</string>
+    <string name="undo">Undo</string>
+    <string name="deleted">Deleted</string>
+</resources>
