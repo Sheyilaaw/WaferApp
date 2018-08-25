@@ -1,6 +1,6 @@
 # Wafer App
 
-Fetch all countries from url and display in list with custom swipe 
+Android app which displays all countries with respective currency and language in listview with custom swipe delete
 
 
 
